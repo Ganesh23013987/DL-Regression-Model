@@ -131,7 +131,8 @@ print(f"\nPrediction for x = 120 : {y_new_pred:.8f}")
 
 ### OUTPUT
 ## Initial weight & Bias:
-<img width="434" height="28" alt="image" src="https://github.com/user-attachments/assets/72683524-a9c4-43eb-88a4-e8129edf364e" />
+<img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/78af8a32-d8bf-414f-bf4f-f6aed37bf8fa" />
+
 
 ## Training Loss Vs Iteration Plot
 <img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/63aed523-db6e-4737-9995-4c4e82d76be3" />
