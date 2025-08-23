@@ -126,10 +126,11 @@ print(f"\nPrediction for x = 120 : {y_new_pred:.8f}")
 
 ```
 
+### OUTPUT
 ### Dataset Information
 <img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/c5127d56-5df5-4577-b8a9-260aa008067a" />
 
-### OUTPUT
+
 ## Initial weight & Bias:
 <img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/78af8a32-d8bf-414f-bf4f-f6aed37bf8fa" />
 
